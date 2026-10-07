@@ -1,0 +1,25 @@
+# Python & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Data & Models
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+
+# IDE & OS
+.agents/
+.vscode/
+.idea/
+.DS_Store
+*.ipynb_checkpoints
+.agents
