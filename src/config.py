@@ -42,6 +42,8 @@ class Config:
     "Luton Town FC": "Luton",
     "Sheffield United FC": "Sheffield United",
     "Sunderland AFC": "Sunderland",
+    "Coventry City FC": "Coventry City",
+    "Hull City AFC": "Hull City"
 }
 
 
